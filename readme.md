@@ -71,7 +71,7 @@ Whenever you generate or submit this data to create one of these objects, it is 
 ```python
 
 # get without arguments returns the entire register
-for quest_req in QuestReq.get():
+for quest_req in QuestReq.get().values():
     print(str(quest_req))
 
 # Get the first element of the set of SkillReqs for Agility
