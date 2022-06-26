@@ -178,7 +178,7 @@ class SkillReq:
     @staticmethod
     def from_string(s):
         """
-        Convert a valid entry into SkillReqs
+        Construct a set of SkillReqs from an entry in skills.txt
         """
         skill, reqs = s.split(":", 1)
         reqs = reqs.split(',')
