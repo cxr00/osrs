@@ -1,8 +1,6 @@
 from skillock import core
 from cxr import dag
 
-root = dag.Node("root")
-
 # Populate SkillReqs and QuestReqs from files
 with open("skillock\\data\\skills.txt", "r") as f:
     skills = []
@@ -20,7 +18,7 @@ def construct_dag():
     """
     Assemble the quest dependency graph
     """
-    global root
+    root = dag.Node("root")
 
     indy_nodes = {key: dag.Node(key, data=quest) for key, quest in quests.items()}
     other_nodes = {}  # For Nodes created for non-scraped quests
@@ -35,6 +33,12 @@ def construct_dag():
                 other_nodes[req].add(node)
             else:
                 indy_nodes[req].add(node)
+
+    return root
+
+
+# Create the data structure ASAP
+root = construct_dag()
 
 
 def skill_and_quest_reqs(node, is_start=True):
@@ -96,7 +100,7 @@ def skill_and_quest_reqs(node, is_start=True):
     return output
 
 
-def create_quest_breakdown(quest_name):
+def create_quest_breakdown(quest_name, save_to_file=True):
     """
     Traverses the dependency graph and compiles total skill and
     quest requirements in order to unlock and complete a given quest.
@@ -138,18 +142,18 @@ def create_quest_breakdown(quest_name):
             elif skill == "Quest points" and req > 0:
                 to_write.append(f"{skill}: {req}")
 
-    with open(f"skillock\\data\\breakdown\\{quest_name}.txt", "w+") as f:
-        f.write("\n".join(to_write))
+    join_string = "\n".join(to_write)
+    if save_to_file:
+        with open(f"skillock\\data\\breakdown\\{quest_name}.txt", "w+") as f:
+            f.write(join_string)
 
     print("Complete")
+
+    return join_string
 
 
 def main():
     print("Performing complete quest breakdown...")
-
-    global root
-    if not root.nodes:
-        construct_dag()
 
     global quests
     for quest in quests:
