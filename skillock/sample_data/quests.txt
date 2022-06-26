@@ -1,0 +1,103 @@
+The Dig Site::Agility*-10,Herblore*-10,Thieving-25
+The Lost Tribe:Goblin Diplomacy,Rune Mysteries:Agility*-13,Mining*-17,Thieving*-13
+Tai Bwo Wannai Trio:Jungle Potion:Agility-15,Cooking-30,Fishing-5
+Troll Stronghold:Death Plateau:Agility*-15
+The Depths of Despair:Client of Kourend:Agility-18
+Mountain Daughter::Agility*-20
+Death to the Dorgeshuun:The Lost Tribe:Agility*-23,Thieving-23
+Ghosts Ahoy:Priest in Peril:Agility*-25,Cooking*-20
+The Grand Tree::Agility*-25
+In Search of the Myreque:Nature Spirit:Agility*-25
+Watchtower::Agility*-25,Herblore*-14,Magic*-14,Mining*-40,Thieving-15
+Darkness of Hallowvale:In Aid of the Myreque:Agility*-26,Construction-5,Crafting-32,Magic-33,Mining-20,Strength*-40,Thieving-22
+Troll Romance:Troll Stronghold:Agility-28
+Cold War::Agility-30,Construction*-34,Crafting-30,Hitpoints*-10,Hunter*-10,Thieving-15
+Shilo Village:Jungle Potion:Agility*-32,Crafting-20
+Horror from the Deep:Alfred Grimhand's Barcrawl:Agility*-35
+One Small Favour:Rune Mysteries,Shilo Village:Agility*-36,Crafting*-25,Herblore*-18,Smithing*-30
+Land of the Goblins:Another Slice of H.A.M.,Fishing Contest:Agility-38,Fishing-40,Herblore-48,Thieving-45
+Royal Trouble:Throne of Miscellania:Agility*-40,Slayer-40
+Cabin Fever:Pirate's Treasure,Rum Deal,Priest in Peril:Agility-42,Crafting-45,Ranged-40,Smithing-50
+Recipe for Disaster - Awowogei subquest:Monkey Madness I,Recipe for Disaster/Another Cook's Quest:Agility-48,Cooking*-70
+Legends' Quest:Family Crest,Heroes' Quest,Shilo Village,Underground Pass,Waterfall Quest:Agility*-50,Crafting*-50,Herblore*-45,Magic*-56,Mining*-52,Prayer*-42,Quest points-107,Smithing*-50,Strength*-50,Thieving*-50,Woodcutting*-50
+Sins of the Father:Vampyre Slayer,A Taste of Hope:Agility-52,Attack-50,Crafting-56,Fletching-60,Magic-49,Slayer-50,Woodcutting-62
+A Kingdom Divided:Architectural Alliance,The Depths of Despair,The Queen of Thieves,The Ascent of Arceuus,The Forsaken Tower,Tale of the Righteous,Client of Kourend:Agility-54,Crafting-38,Herblore-50,Magic-35,Mining-42,Thieving-52,Woodcutting-52
+Monkey Madness II:Enlightened Journey,The Eyes of Glouphrie,Recipe for Disaster/Freeing King Awowogei,Troll Stronghold,Watchtower:Agility-55,Crafting-70,Firemaking-60,Hitpoints-60,Hunter-60,Slayer-69,Thieving-55
+Regicide:Underground Pass:Agility*-56
+Grim Tales:Witch's House:Agility*-59,Farming*-45,Herblore*-52,Thieving*-58,Woodcutting*-71
+Dragon Slayer II:Legends' Quest,Dream Mentor,A Tail of Two Cats,Animal Magnetism,Ghosts Ahoy,Bone Voyage,Client of Kourend:Agility-60,Construction-50,Crafting-62,Magic-75,Mining-68,Quest points-200,Smithing-70,Thieving-60
+Beneath Cursed Sands:Contact!:Agility-62,Crafting-55,Firemaking-55
+Making Friends with My Arm:My Arm's Big Adventure,Swan Song,Cold War,Romeo & Juliet:Agility*-68,Construction*-35,Firemaking-66,Mining*-72
+Song of the Elves:Mourning's End Part II,Making History:Agility-70,Construction-70,Farming-70,Herblore-70,Hitpoints-70,Hunter-70,Mining-70,Smithing-70,Woodcutting-70
+Another Slice of H.A.M.:Death to the Dorgeshuun,The Giant Dwarf,The Dig Site:Attack-15,Prayer-25
+Holy Grail:Merlin's Crystal:Attack-20
+A Taste of Hope:Darkness of Hallowvale:Attack-40,Crafting-48,Slayer-38
+Dream Mentor:The Fremennik Trials,Lost City,Rune Mysteries,Shilo Village:Combat level-85
+The Eyes of Glouphrie:The Grand Tree:Construction-5,Magic-46
+Tower of Life::Construction-10
+The Fremennik Isles:The Fremennik Trials:Construction*-20
+Getting Ahead::Construction-26
+The Great Brain Robbery:Creature of Fenkenstrain,Cabin Fever,Freeing Pirate Pete:Construction-30,Crafting-16,Prayer-50
+Recipe for Disaster - Beginning:Cook's Assistant:Cooking-10
+Forgettable Tale of a Drunken Dwarf:The Giant Dwarf,Fishing Contest:Cooking*-22,Farming*-17
+Recipe for Disaster - Evil Dave subquest:Gertrude's Cat,Recipe for Disaster/Another Cook's Quest,Shadow of the Storm:Cooking-25
+Big Chompy Bird Hunting::Cooking*-30,Fletching*-5,Ranged-30
+Recipe for Disaster - Pirate Pete subquest:Recipe for Disaster/Another Cook's Quest:Cooking-31
+Recipe for Disaster - Lumbridge Guide subquest:Big Chompy Bird Hunting,Biohazard,Demon Slayer,Murder Mystery,Nature Spirit,Recipe for Disaster/Another Cook's Quest,Witch's House:Cooking*-40
+Recipe for Disaster - Skrach Uglogwee subquest:Big Chompy Bird Hunting,Recipe for Disaster/Another Cook's Quest:Cooking*-41,Firemaking-20
+Heroes' Quest:Shield of Arrav,Lost City,Merlin's Crystal,Dragon Slayer I:Cooking*-53,Fishing*-53,Herblore*-25,Mining*-50,Quest points-55
+Swan Song:One Small Favour,Garden of Tranquillity:Cooking*-62,Crafting*-40,Firemaking-42,Fishing*-62,Magic*-66,Quest points-100,Smithing*-45
+Observatory Quest::Crafting-10
+The Giant Dwarf::Crafting-12,Firemaking-16,Magic*-33,Thieving*-14
+Animal Magnetism:The Restless Ghost,Ernest the Chicken,Priest in Peril:Crafting-19,Ranged-30,Slayer-18,Woodcutting-35
+Creature of Fenkenstrain:Priest in Peril:Crafting*-20,Thieving*-25
+Elemental Workshop I::Crafting-20,Mining-20,Smithing-20
+The Golem::Crafting-20,Thieving*-25
+Shades of Mort'ton:Priest in Peril:Crafting-20,Firemaking-5,Herblore*-15
+Tears of Guthix::Crafting-20,Firemaking*-49,Mining-20,Quest points-43
+In Aid of the Myreque:In Search of the Myreque:Crafting-25,Magic-7,Mining-15
+Shadow of the Storm:The Golem,Demon Slayer:Crafting*-30
+Slug Menace:Wanted!,Sea Slug:Crafting-30
+Lost City::Crafting*-31,Woodcutting*-36
+Haunted Mine:Priest in Peril:Crafting-35
+Enlightened Journey::Crafting-36,Farming*-30,Firemaking-20,Quest points-20
+Family Crest::Crafting*-40,Magic*-59,Mining*-40,Smithing*-40
+Rum Deal:Zogre Flesh Eaters,Priest in Peril:Crafting*-42,Farming*-40,Fishing*-50,Prayer*-47,Slayer-42
+The Hand in the Sand::Crafting-49,Thieving-17
+Enakhra's Lament::Crafting-50,Firemaking*-45,Magic-39,Prayer-43
+Lunar Diplomacy:The Fremennik Trials,Lost City,Rune Mysteries,Shilo Village:Crafting-61,Defence-40,Firemaking-49,Herblore-5,Magic-65,Mining-60,Woodcutting-55
+The Fremennik Exiles:The Fremennik Isles,Lunar Diplomacy,Mountain Daughter,Heroes' Quest:Crafting-65,Fishing-60,Runecraft-55,Slayer-60,Smithing-60
+Rag and Bone Man II:Rag and Bone Man I:Defence-20,Slayer-40
+Between a Rock...:Dwarf Cannon,Fishing Contest:Defence*-30,Mining*-40,Smithing*-50
+King's Ransom:Black Knights' Fortress,Holy Grail,Murder Mystery,One Small Favour:Defence-65,Magic-45
+Garden of Tranquillity:Creature of Fenkenstrain:Farming-25
+My Arm's Big Adventure:Eadgar's Ruse,The Feud,Jungle Potion:Farming*-29,Woodcutting-10
+Fairytale II - Cure a Queen:Fairytale I - Growing Pains:Farming*-49,Herblore*-57,Thieving-40
+Sea Slug::Firemaking*-30
+Olaf's Quest:The Fremennik Trials:Firemaking*-40,Woodcutting*-50
+Desert Treasure:The Dig Site,Temple of Ikov,The Tourist Trap,Troll Stronghold,Priest in Peril,Waterfall Quest:Firemaking*-50,Magic-50,Slayer-10,Thieving-53
+Fishing Contest::Fishing-10
+The Tourist Trap::Fletching*-10,Smithing-20
+Devious Minds:Wanted!,Troll Stronghold,Doric's Quest,Enter the Abyss:Fletching*-50,Runecraft-50,Smithing*-65
+Jungle Potion:Druidic Ritual:Herblore-3
+Zogre Flesh Eaters:Big Chompy Bird Hunting,Jungle Potion:Herblore-8,Ranged-30,Smithing-4
+Eadgar's Ruse:Druidic Ritual,Troll Stronghold:Herblore*-31
+The Ascent of Arceuus:Client of Kourend:Hitpoints-12,Hunter-12
+Eagles' Peak::Hitpoints*-27,Hunter*-27
+Elemental Workshop II:Elemental Workshop I:Magic*-20,Smithing*-30
+Spirits of the Elid::Magic*-33,Mining*-37,Ranged*-37,Thieving*-37
+The Knight's Sword::Mining*-10
+Tale of the Righteous:Client of Kourend:Mining-10,Strength-16
+Scorpion Catcher:Alfred Grimhand's Barcrawl:Prayer-31
+Black Knights' Fortress::Quest points-12
+Wanted!:Recruitment Drive,The Lost Tribe,Priest in Peril,Enter the Abyss:Quest points-32
+Dragon Slayer I::Quest points-32
+Recipe for Disaster - Final Battle:Cook's Assistant:Quest points-175
+Underground Pass:Biohazard:Ranged-25
+Temple of Ikov::Ranged-40,Thieving*-42
+Mourning's End Part I:Roving Elves,Big Chompy Bird Hunting,Sheep Herder:Ranged-60,Thieving*-50
+Temple of the Eye:Enter the Abyss:Runecraft-10
+The Slug Menace:Wanted!,Sea Slug:Runecraft-30,Slayer-30,Thieving-30
+What Lies Below:Rune Mysteries:Runecraft-35
+Tribal Totem::Thieving*-21
+The Feud::Thieving-30
